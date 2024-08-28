@@ -1,0 +1,11 @@
+.Btn{
+    color: blue;
+    min-width: 100px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+}
+
+.Input {
+ color: #000;
+}
