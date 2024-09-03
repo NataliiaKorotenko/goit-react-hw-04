@@ -1,0 +1,18 @@
+.loadBtn {
+    min-width: 200px;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(128,0,128);
+    color: white;
+    font-size: 18px;
+  }
+
+  .loadBtn:hover,
+  .loadBtn:focus
+   {
+    outline: none;
+    box-shadow: none; 
+  }

@@ -3,10 +3,13 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  border: none;
 }
 
-.Container{
-  display: block;
+/*.Container{
+  display: flex;
+  margin: auto;
+  text-align: center;
   width: auto;
   background-color: rgb(255,0,255);
-}
+}*/
